@@ -1,0 +1,25 @@
+
+body {
+    background: #26303D;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+p {
+    text-align: center;
+    padding: 1em;
+}
+.data-vis {
+    width: 50%;
+    height: 400px;
+    border: 1px solid #ffffff;
+    margin: 0 auto;
+}
+.text-labels {
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+.text-value {
+    font-family: sans-serif;
+    font-size: 10px;
+    fill: #333;
+}
